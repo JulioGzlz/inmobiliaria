@@ -7,6 +7,8 @@ import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 import { CasasComponent } from './casas/casas.component';
 import { DepartamentosComponent } from './departamentos/departamentos.component';
 import { AsesoresComponent } from './asesores/asesores.component';
+import { HomeComponent } from './home/home.component';
+
 
 
 
@@ -15,7 +17,8 @@ import { AsesoresComponent } from './asesores/asesores.component';
     AppComponent,
     CasasComponent,
     DepartamentosComponent,
-    AsesoresComponent
+    AsesoresComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,
