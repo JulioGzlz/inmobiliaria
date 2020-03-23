@@ -1,0 +1,34 @@
+EXAMEN.
+
+
+PROGRAMA EN C#
+Realizar en la consola de C#
+En visual studio una calculadora
+que me permita SUMAR MAS DE UN DIGITO
+
+Por ejemplo
+2+3+4+5+6
+etc..
+
+Debe permitirme retornar valores enteros y decimales
+2.4+2.3+5+0...+n
+
+
+NOTA:
+ESTA CALCULADORA DEBE HACERSE EN POO (Programación Orientada a Objetos)
+
+Deberá hacerse en Visual Studio
+En una aplicación de consola lenguaje CSHARP  C#
+
+Deberá subirse EN UN NUEVO REPOSITORIO
+llamado:  
+devnet
+En este deberá crearse un nuevo branch llamado:
+test
+Enviarme la invitación: landeroej@gmail.com
+
+
+
+NO SE PERMITIRA PROGRAMACIÓN ESTRUCTURADA.
+Cotizar tiempos, no debe LLEVARSE MAS DE UNA HORA!!!
+
